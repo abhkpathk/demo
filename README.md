@@ -1,2 +1,2 @@
 # Spring-CRUD
-Spring-CRUD restful application connection established using MySql
+Spring-CRUD restful web application where connection is established using MySql
